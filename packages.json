@@ -1,0 +1,19 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "SimpleStateManager Snippets",
+			"description": "Snippets for using SimpleStateManager in Sublime Text 3",
+			"author": "Jonathan Fielding",
+			"homepage": "http://www.simplestatemanager.com",
+			"details": "https://github.com/SimpleStateManager/SimpleStateManager-Snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/SimpleStateManager/SimpleStateManager-Snippets/tags"
+				}
+			]
+		}
+	]
+}

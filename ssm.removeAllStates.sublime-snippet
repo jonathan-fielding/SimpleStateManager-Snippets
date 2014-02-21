@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ssm.removeAllStates();
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.removeAllStates()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

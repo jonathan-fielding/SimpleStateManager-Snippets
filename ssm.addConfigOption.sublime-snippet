@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+ssm.addConfigOption({
+	name: ${1:string},
+	test: ${2:method}
+});
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.addConfigOption()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

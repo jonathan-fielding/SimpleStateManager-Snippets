@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ssm.getCurrentStates();
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.getCurrentStates()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

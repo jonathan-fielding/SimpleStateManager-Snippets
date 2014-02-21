@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ssm.removeState(${1:stateID});
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.removeState()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+ssm.addState({
+	id: ${1:string},
+	minWidth: ${2:number},
+	maxWidth: ${3:number},
+	onEnter: ${4:method},
+	onLeave: ${5:method},
+	onResize: ${6:method}
+});
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.addState()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ssm.ready();
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.ready()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>

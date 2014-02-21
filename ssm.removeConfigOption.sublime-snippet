@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ssm.removeConfigOption(${1:optionID});
+]]></content>
+	<tabTrigger>ssm</tabTrigger>
+	<description>ssm.removeConfigOption()</description>
+	<scope>source.js, source.coffee</scope>
+</snippet>
